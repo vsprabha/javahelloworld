@@ -5,5 +5,6 @@ public class JavaHelloWorld
 		System.out.println("Java Hellow World");
 		System.out.println("Hellow again");
 		System.out.println("Trouble starts after this line");
+		System.out.println("Push test line");
 	}
 }
